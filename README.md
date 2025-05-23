@@ -10,7 +10,7 @@ I'm currently studying Diploma in ICT in Applications Development at Cape Penins
 
 ---
 
-## 🚀 Tasks
+## Tasks
 -----
 **Career Counselling
 **Skills and Interests
