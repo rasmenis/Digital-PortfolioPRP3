@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Siya Rasmeni
+# Hi, I'm Siya Rasmeni
 
 Welcome to my Digital Portfolio
 
