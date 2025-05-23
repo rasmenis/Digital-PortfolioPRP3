@@ -11,8 +11,8 @@ I'm currently studying Diploma in ICT in Applications Development at Cape Penins
 
 ## 🚀 Tasks
 
-Career Counselling
-skills and Interests
-Personality Assessment
-Create CV
-CV Submission
+# Career Counselling
+# skills and Interests
+# Personality Assessment
+# Create CV
+# CV Submission
