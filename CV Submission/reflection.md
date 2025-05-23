@@ -1,4 +1,4 @@
-# Reflection on CV Submission (Using STAR Method)
+# Reflection on CV Submission 
 
 ## **Situation**  
 I was required to submit my Curriculum Vitae (CV) as part of a career readiness activity. The aim was to ensure that I had a professional and well-structured CV prepared for any job or internship opportunities.
